@@ -1,4 +1,4 @@
-// Program created by LeeAnna Ewing 6/9/2019 
+// Program created by LeeAnna Ewing 
 /* This program is for a local Tea shop. It shows menus for type
 of tea as well as size. It accepts user input for selections and
 customer name. It calculates the cost of each order and displays
